@@ -1,0 +1,85 @@
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\bin\Release\Softventa.exe.config
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\bin\Release\Softventa.pdb
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarcategoriaform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarproductoform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarproveedoresform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarsucursalform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listarproductoform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listarproveedoresform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listarsucursalform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarcategoriaform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarproductoform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarproveedoresform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarsucursalform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Permisos.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Properties.Resources.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.exe
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.pdb
+C:\Users\luiscleverboy\Documents\Visual Studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarprivilegiosform.resources
+C:\Users\luiscleverboy\Documents\Visual Studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregartrabajadorform.resources
+C:\Users\luiscleverboy\Documents\Visual Studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listarprivilegiosform.resources
+C:\Users\luiscleverboy\Documents\Visual Studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listartrabajadorform.resources
+C:\Users\luiscleverboy\Documents\Visual Studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarprivilegiosform.resources
+C:\Users\luiscleverboy\Documents\Visual Studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificartrabajadorform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarclienteform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarprodproveform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listarclienteform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listarprodproveform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarclienteform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarprodproveform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Agregarstockform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Modificarstockform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Realizarventaform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Productocategoriaform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Listarventasform.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Form1.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Form2.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Form3.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Form4.resources
+C:\Users\luiscleverboy\documents\visual studio 2010\Projects\Softventa\Softventa\obj\x86\Release\Softventa.Realizarbalanceform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\bin\Release\Softventa.exe.config
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.exe
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.pdb
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\bin\Release\Softventa.pdb
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarcategoriaform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarclienteform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarprivilegiosform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarprodproveform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarproductoform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarproveedoresform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarstockform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregarsucursalform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Agregartrabajadorform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Form1.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Form2.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Form3.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Form4.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listarclienteform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listarprivilegiosform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listarprodproveform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listarproductoform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listarproveedoresform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listarsucursalform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listartrabajadorform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Listarventasform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarcategoriaform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarclienteform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarprivilegiosform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarprodproveform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarproductoform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarproveedoresform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarstockform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificarsucursalform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Modificartrabajadorform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Permisos.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Productocategoriaform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Properties.Resources.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Realizarbalanceform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\Softventa.Realizarventaform.resources
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\luiscleverboy\Desktop\Softventa\Softventa\bin\Release\Softventa.exe

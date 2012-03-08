@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{27FC55A3-E2CD-4B89-B821-F24AC03BDED7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Softventa</RootNamespace>
+    <AssemblyName>Softventa</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Softventa, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <ExecutableExtension>.exe</ExecutableExtension>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agregarcategoriaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarcategoriaform.Designer.cs">
+      <DependentUpon>Agregarcategoriaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarclienteform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarclienteform.Designer.cs">
+      <DependentUpon>Agregarclienteform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarprivilegiosform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarprivilegiosform.Designer.cs">
+      <DependentUpon>Agregarprivilegiosform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarprodproveform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarprodproveform.Designer.cs">
+      <DependentUpon>Agregarprodproveform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarproveedoresform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarproveedoresform.Designer.cs">
+      <DependentUpon>Agregarproveedoresform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarstockform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarstockform.Designer.cs">
+      <DependentUpon>Agregarstockform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarsucursalform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarsucursalform.Designer.cs">
+      <DependentUpon>Agregarsucursalform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregartrabajadorform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregartrabajadorform.Designer.cs">
+      <DependentUpon>Agregartrabajadorform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="distribuidoraDataSet.cs">
+      <DependentUpon>distribuidoraDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="distribuidoraDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>distribuidoraDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregarproductoform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregarproductoform.Designer.cs">
+      <DependentUpon>Agregarproductoform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listarclienteform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listarclienteform.Designer.cs">
+      <DependentUpon>Listarclienteform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listarprivilegiosform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listarprivilegiosform.Designer.cs">
+      <DependentUpon>Listarprivilegiosform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listarprodproveform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listarprodproveform.Designer.cs">
+      <DependentUpon>Listarprodproveform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listarproductoform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listarproductoform.Designer.cs">
+      <DependentUpon>Listarproductoform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listarproveedoresform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listarproveedoresform.Designer.cs">
+      <DependentUpon>Listarproveedoresform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listarsucursalform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listarsucursalform.Designer.cs">
+      <DependentUpon>Listarsucursalform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listartrabajadorform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listartrabajadorform.Designer.cs">
+      <DependentUpon>Listartrabajadorform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listarventasform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listarventasform.Designer.cs">
+      <DependentUpon>Listarventasform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarcategoriaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarcategoriaform.Designer.cs">
+      <DependentUpon>Modificarcategoriaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarclienteform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarclienteform.Designer.cs">
+      <DependentUpon>Modificarclienteform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarprivilegiosform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarprivilegiosform.Designer.cs">
+      <DependentUpon>Modificarprivilegiosform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarprodproveform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarprodproveform.Designer.cs">
+      <DependentUpon>Modificarprodproveform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarproductoform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarproductoform.Designer.cs">
+      <DependentUpon>Modificarproductoform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarproveedoresform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarproveedoresform.Designer.cs">
+      <DependentUpon>Modificarproveedoresform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarstockform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarstockform.Designer.cs">
+      <DependentUpon>Modificarstockform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificarsucursalform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificarsucursalform.Designer.cs">
+      <DependentUpon>Modificarsucursalform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificartrabajadorform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificartrabajadorform.Designer.cs">
+      <DependentUpon>Modificartrabajadorform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Permisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Permisos.Designer.cs">
+      <DependentUpon>Permisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productocategoriaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productocategoriaform.Designer.cs">
+      <DependentUpon>Productocategoriaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Realizarbalanceform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Realizarbalanceform.Designer.cs">
+      <DependentUpon>Realizarbalanceform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Realizarventaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Realizarventaform.Designer.cs">
+      <DependentUpon>Realizarventaform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Agregarcategoriaform.resx">
+      <DependentUpon>Agregarcategoriaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregarclienteform.resx">
+      <DependentUpon>Agregarclienteform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregarprivilegiosform.resx">
+      <DependentUpon>Agregarprivilegiosform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregarprodproveform.resx">
+      <DependentUpon>Agregarprodproveform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregarproductoform.resx">
+      <DependentUpon>Agregarproductoform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregarproveedoresform.resx">
+      <DependentUpon>Agregarproveedoresform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregarstockform.resx">
+      <DependentUpon>Agregarstockform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregarsucursalform.resx">
+      <DependentUpon>Agregarsucursalform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregartrabajadorform.resx">
+      <DependentUpon>Agregartrabajadorform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listarclienteform.resx">
+      <DependentUpon>Listarclienteform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listarprivilegiosform.resx">
+      <DependentUpon>Listarprivilegiosform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listarprodproveform.resx">
+      <DependentUpon>Listarprodproveform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listarproductoform.resx">
+      <DependentUpon>Listarproductoform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listarproveedoresform.resx">
+      <DependentUpon>Listarproveedoresform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listarsucursalform.resx">
+      <DependentUpon>Listarsucursalform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listartrabajadorform.resx">
+      <DependentUpon>Listartrabajadorform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listarventasform.resx">
+      <DependentUpon>Listarventasform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarcategoriaform.resx">
+      <DependentUpon>Modificarcategoriaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarclienteform.resx">
+      <DependentUpon>Modificarclienteform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarprivilegiosform.resx">
+      <DependentUpon>Modificarprivilegiosform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarprodproveform.resx">
+      <DependentUpon>Modificarprodproveform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarproductoform.resx">
+      <DependentUpon>Modificarproductoform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarproveedoresform.resx">
+      <DependentUpon>Modificarproveedoresform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarstockform.resx">
+      <DependentUpon>Modificarstockform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificarsucursalform.resx">
+      <DependentUpon>Modificarsucursalform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificartrabajadorform.resx">
+      <DependentUpon>Modificartrabajadorform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Permisos.resx">
+      <DependentUpon>Permisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productocategoriaform.resx">
+      <DependentUpon>Productocategoriaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Realizarbalanceform.resx">
+      <DependentUpon>Realizarbalanceform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Realizarventaform.resx">
+      <DependentUpon>Realizarventaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="distribuidoraDataSet.xsc">
+      <DependentUpon>distribuidoraDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="distribuidoraDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>distribuidoraDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="distribuidoraDataSet.xss">
+      <DependentUpon>distribuidoraDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
